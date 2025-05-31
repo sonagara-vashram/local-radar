@@ -2,7 +2,7 @@ import importlib
 import os
 from core.logging import logger
 
-SCRAPER_FOLDER = "app.scrapers"
+SCRAPER_FOLDER = "scrapers"
 
 def load_scrapers():
     """
