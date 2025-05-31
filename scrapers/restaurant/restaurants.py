@@ -1,5 +1,3 @@
-import os
-import sys
 from bs4 import BeautifulSoup
 import requests
 from scrapers._common import get_headers

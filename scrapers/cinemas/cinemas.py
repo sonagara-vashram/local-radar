@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from app.scrapers._common import get_headers
+from scrapers._common import get_headers
 import re
         
 def get_request(url):
