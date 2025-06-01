@@ -25,7 +25,9 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://my-cool-scraper-api.onrender.com",
-        "https://www.localradar.tech"
+        "https://www.localradar.tech",             
+        "https://localradar.tech",                 
+        "http://localhost:3000",                   
     ],
     allow_credentials=True,
     allow_methods=["*"],
