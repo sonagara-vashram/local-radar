@@ -6,14 +6,18 @@ from core.exceptions import RateLimitException
 from core.logging import logger
 from typing import Any
 
-# Redis client setup
-redis_client = redis.Redis(
-    host=settings.REDIS_HOST,
-    port=settings.REDIS_PORT,
-    password=settings.REDIS_PASSWORD,
-    ssl=settings.REDIS_SSL,
-    decode_responses=True
-)
+try:
+    redis_client = redis.Redis(
+        host=settings.REDIS_HOST,
+        port=settings.REDIS_PORT,
+        password=settings.REDIS_PASSWORD,
+        ssl=settings.REDIS_SSL,
+        decode_responses=True
+    )
+    redis_client.ping()
+except Exception as e:
+    logger.error(f"Redis connection failed: {e}")
+    redis_client = None
 
 class RedisRateLimiter:
     """
@@ -35,6 +39,11 @@ class RedisRateLimiter:
         Temporarily or permanently blocks IP on repeated violations.
         """
         ip: str = request.client.host
+        
+        if not redis_client:
+            logger.warning("Redis unavailable, skipping rate limiting.")
+            return ip
+        
         block_key = f"block:{ip}"
         rate_key = f"rate_limit:{ip}"
         count_key = f"block_count:{ip}"
