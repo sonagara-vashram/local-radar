@@ -15,6 +15,7 @@ app = FastAPI(
 )
 
 # Register custom middleware.
+
 # The order of middleware registration matters.
 app.middleware("http")(header_validator)
 app.middleware("http")(log_request)
