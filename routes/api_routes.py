@@ -49,7 +49,7 @@ def get_scrapers() -> List[str]:
 async def scrape_data(
     request: Request,
     scrape_request: ScrapeRequest,
-    rate_limit_key: str = Depends(rate_limit),
+    # rate_limit_key: str = Depends(rate_limit),
     api_key_valid: bool = Depends(validate_api_key),
 ) -> ScrapeResponse:
     """
