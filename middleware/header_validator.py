@@ -7,7 +7,7 @@ from core.logging import logger
 # Removed 'postmanruntime' for easier testing with Postman.
 BANNED_USER_AGENTS = [
     # re.compile(r"python-requests", re.IGNORECASE),
-    re.compile(r"curl", re.IGNORECASE),
+    # re.compile(r"curl", re.IGNORECASE),
     re.compile(r"wget", re.IGNORECASE),
     re.compile(r"scrapy", re.IGNORECASE),
     re.compile(r"bot", re.IGNORECASE),
