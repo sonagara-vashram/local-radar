@@ -3,8 +3,9 @@ from pydantic import Field
 
 class Settings(BaseSettings):
     # MongoDB settings
-    MONGO_URI: str = Field("mongodb://localhost:27017", env="MONGO_URI")
+    MONGO_URI: str = Field("mongodb+srv://vasramdev:42PlTKupaU9f5Dhh@cluster0.aydnalb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", env="MONGO_URI")
     DATABASE_NAME: str = Field("LOCAL_RADAR", env="DATABASE_NAME")
+    
     
     # Rate limiting settings
     RATE_LIMIT_CALLS: int = Field(100, env="RATE_LIMIT_CALLS")
@@ -16,7 +17,7 @@ class Settings(BaseSettings):
     # Redis settings (using Upstash Redis)
     REDIS_HOST: str = Field("settling-cricket-44286.upstash.io", env="REDIS_HOST")
     REDIS_PORT: int = Field(6379, env="REDIS_PORT")
-    REDIS_PASSWORD: str = Field('B1vFoyIN$bY3ttjMVmIa!VsijuUoRWI8!5Sg4yYOVIUk@Tpfxe_dXs2qg5I1lUw%iq', env="REDIS_PASSWORD")
+    REDIS_PASSWORD: str = Field('Aaz-AAIjcDE0NzViZWJhMmVkYjg0YWE1OGZiNTI4Yzc1ZGQ3Y2Q1MXAxMA', env="REDIS_PASSWORD")
     REDIS_SSL: bool = Field(True, env="REDIS_SSL")
     
     # JWT settings
