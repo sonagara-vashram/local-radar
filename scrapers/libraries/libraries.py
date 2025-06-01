@@ -73,5 +73,3 @@ def main(location):
         return data
     else:
         return None
-    
-a = main("Gandhinagar")
