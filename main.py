@@ -23,7 +23,10 @@ app.middleware("http")(log_request)
 # Include CORS middleware for handling cross-origin requests.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://my-cool-scraper-api.onrender.com"],
+    allow_origins=[
+        "https://my-cool-scraper-api.onrender.com",
+        "https://www.localradar.tech"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
