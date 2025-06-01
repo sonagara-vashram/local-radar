@@ -42,7 +42,7 @@ def get_scrapers() -> List[str]:
     Returns:
         List[str]: A list of scraper names.
     """
-    from app.scrapers import SCRAPERS
+    from scrapers import SCRAPERS
     return list(SCRAPERS.keys())
 
 @router.post("/scrape", response_model=ScrapeResponse, responses={404: {"model": ErrorResponse}})

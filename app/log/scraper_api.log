@@ -1,0 +1,2096 @@
+2025-06-01 11:49:28 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 11:49:28 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 11:49:29 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 11:49:30 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 11:49:30 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 11:49:30 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 11:49:31 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 11:49:31 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 11:49:33 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 11:49:34 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 11:49:34 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 11:49:34 - scraper_api - INFO - Application startup initiated.
+2025-06-01 11:50:35 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 11:50:36 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 11:50:49 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 11:50:49 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 11:50:49 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 11:50:50 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 11:50:51 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 11:50:51 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 11:50:52 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 11:50:52 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 11:50:52 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 11:50:52 - scraper_api - INFO - Application startup initiated.
+2025-06-01 11:52:04 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 11:52:04 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 11:52:10 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 11:52:10 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 11:52:10 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 11:52:11 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 11:52:12 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 11:52:12 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 11:52:13 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 11:52:13 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 11:52:13 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 11:52:13 - scraper_api - INFO - Application startup initiated.
+2025-06-01 11:52:25 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:52:26 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:53:06 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 11:53:06 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 11:53:19 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 11:53:19 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 11:53:20 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 11:53:21 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 11:53:21 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 11:53:22 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 11:53:23 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 11:53:23 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 11:53:23 - scraper_api - INFO - Application startup initiated.
+2025-06-01 11:53:38 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:53:38 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:55:23 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 11:55:24 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 11:56:05 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 11:56:05 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 11:56:05 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 11:56:07 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 11:56:07 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 11:56:08 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 11:56:08 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 11:56:08 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 11:56:08 - scraper_api - INFO - Application startup initiated.
+2025-06-01 11:56:16 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:56:16 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:58:02 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:58:02 - scraper_api - ERROR - Unhandled exception occurred:
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 76, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 178, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\anyio\_backends\_asyncio.py", line 736, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     )
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    |     raise app_exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    |     response = await f(request)
+    |                ^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    |     solved_result = await solve_dependencies(
+    |                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     ...<6 lines>...
+    |     )
+    |     ^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    |     solved = await call(**solved_result.values)
+    |              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    |     is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+    |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    |     return await loop.run_in_executor(None, func_call)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    |     result = self.fn(*self.args, **self.kwargs)
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    |     return self.execute_command("GET", name, keys=[name])
+    |            ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    |     return self._execute_command(*args, **options)
+    |            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    |     conn = self.connection or pool.get_connection(command_name, **options)
+    |                               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    |     connection.connect()
+    |     ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    |     raise ConnectionError(self._error_message(e))
+    | redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\request_logger.py", line 26, in log_request
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 177, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_utils.py", line 82, in collapse_excgroups
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 179, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\middleware\header_validator.py", line 93, in header_validator
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 154, in call_next
+    raise app_exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\base.py", line 141, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\routing.py", line 291, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\fastapi\dependencies\utils.py", line 638, in solve_dependencies
+    solved = await call(**solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Project\local-radar\local\local-radar\security\rate_limiter.py", line 43, in __call__
+    is_blocked: Any = await asyncio.to_thread(redis_client.get, block_key)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\commands\core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 1422, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\site-packages\redis\connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to regular-mule-15533.upstash.io:6379. getaddrinfo failed.
+2025-06-01 11:58:24 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 11:58:24 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 11:58:50 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 11:58:50 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 11:58:51 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 11:58:53 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 11:58:53 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 11:58:54 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 11:58:55 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 11:58:55 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 11:58:55 - scraper_api - INFO - Application startup initiated.
+2025-06-01 12:00:25 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 12:00:25 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 12:00:26 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 12:00:26 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 12:00:27 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 12:00:28 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 12:00:29 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 12:00:30 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 12:00:30 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 12:00:30 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 12:00:30 - scraper_api - INFO - Application startup initiated.
+2025-06-01 12:00:30 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 12:00:31 - scraper_api - INFO - Closed MongoDB connection
+2025-06-01 12:00:32 - scraper_api - WARNING - Module scrapers.scraper_config does not have a 'main' function and was skipped.
+2025-06-01 12:00:32 - scraper_api - WARNING - Module scrapers._common does not have a 'main' function and was skipped.
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.amusementparks.amusementparks as key: amusementparks
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.bakeries.bakeries as key: bakeries
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.bars.bars as key: bars
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.beaches.beaches as key: beaches
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.bookstores.bookstores as key: bookstores
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.carrepairservices.carrepairservices as key: carrepairservices
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.cinemas.cinemas as key: cinemas
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.clinics.clinics as key: clinics
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.clothingstores.clothingstores as key: clothingstores
+2025-06-01 12:00:32 - scraper_api - INFO - Loaded scraper module: scrapers.coachingcenters.coachingcenters as key: coachingcenters
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.coffeeshops.coffeeshops as key: coffeeshops
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.colleges.colleges as key: colleges
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.dentists.dentists as key: dentists
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.electronicstores.electronicstores as key: electronicstores
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.eyecarecenters.eyecarecenters as key: eyecarecenters
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.fastfood.fastfood as key: fastfood
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.firestation.firestation as key: firestation
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.furniturestores.furniturestores as key: furniturestores
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.grocerystore.grocerystore as key: grocerystore
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.gyms.gyms as key: gyms
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.hospitals.hospitals as key: hospitals
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.hostels.hostels as key: hostels
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.hotels.hotels as key: hotels
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.jewelryshops.jewelryshops as key: jewelryshops
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.apna as key: apna
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.naukri as key: naukri
+2025-06-01 12:00:33 - scraper_api - INFO - Loaded scraper module: scrapers.jobs.shine as key: shine
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.libraries.libraries as key: libraries
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.museums.museums as key: museums
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.musicdanceacademies.musicdanceacademies as key: musicdanceacademies
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.news.indiatoday as key: indiatoday
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.nightclubs.nightclubs as key: nightclubs
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.parks.parks as key: parks
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.policestations.policestations as key: policestations
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.publictransport.publictransport as key: publictransport
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.restaurant.restaurants as key: restaurants
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.salons.salons as key: salons
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.schools.schools as key: schools
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.shoppingmalls.shoppingmalls as key: shoppingmalls
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.sportsclubs.sportsclubs as key: sportsclubs
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.supermarkets.supermarkets as key: supermarkets
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.temples.temples as key: temples
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.weather.weather as key: weather
+2025-06-01 12:00:34 - scraper_api - INFO - Loaded scraper module: scrapers.yogacenters.yogacenters as key: yogacenters
+2025-06-01 12:00:34 - scraper_api - INFO - Connected to Redis successfully.
+2025-06-01 12:00:35 - scraper_api - INFO - Connected to MongoDB: LOCAL_RADAR
+2025-06-01 12:00:35 - scraper_api - INFO - Celery app created with broker: rediss://:ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA@regular-mule-15533.upstash.io:6379
+2025-06-01 12:00:35 - scraper_api - INFO - Celery configuration updated.
+2025-06-01 12:00:35 - scraper_api - INFO - Application startup initiated.
+2025-06-01 12:00:49 - scraper_api - INFO - Application shutdown initiated.
+2025-06-01 12:00:50 - scraper_api - INFO - Closed MongoDB connection
