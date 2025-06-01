@@ -14,9 +14,9 @@ class Settings(BaseSettings):
     PERMANENT_BLOCK_DURATION: int = Field(86400, ev="PERMANENT_BLOCK_DURATION") # Permanent block for 24 hours.
     
     # Redis settings (using Upstash Redis)
-    REDIS_HOST: str = Field("regular-mule-15533.upstash.io", env="REDIS_HOST")
+    REDIS_HOST: str = Field("settling-cricket-44286.upstash.io", env="REDIS_HOST")
     REDIS_PORT: int = Field(6379, env="REDIS_PORT")
-    REDIS_PASSWORD: str = Field("ATytAAIjcDE4ZDY4M2VkOTZkNWM0NTA4YTI5OWRjOTNlMjI0OGRhOHAxMA", env="REDIS_PASSWORD")
+    REDIS_PASSWORD: str = Field('B1vFoyIN$bY3ttjMVmIa!VsijuUoRWI8!5Sg4yYOVIUk@Tpfxe_dXs2qg5I1lUw%iq', env="REDIS_PASSWORD")
     REDIS_SSL: bool = Field(True, env="REDIS_SSL")
     
     # JWT settings
