@@ -14,25 +14,24 @@ app = FastAPI(
     description="API for scraping and retrieving data from various sources."
 )
 
-# Register custom middleware.
-
-# The order of middleware registration matters.
-app.middleware("http")(header_validator)
-app.middleware("http")(log_request)
-
 # Include CORS middleware for handling cross-origin requests.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://my-cool-scraper-api.onrender.com",
-        "https://www.localradar.tech",             
-        "https://localradar.tech",                 
-        "http://localhost:3000",                   
+        "https://www.localradar.tech",
+        "https://localradar.tech",
+        "http://localhost:3000",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Register custom middleware.
+# The order of middleware registration matters.
+app.middleware("http")(header_validator)
+app.middleware("http")(log_request)
 
 # Include routers for various API endpoints
 app.include_router(api_router, prefix="/api")
