@@ -8,11 +8,11 @@ class Settings(BaseSettings):
     
     
     # Rate limiting settings
-    RATE_LIMIT_CALLS: int = Field(100, env="RATE_LIMIT_CALLS")
-    RATE_LIMIT_PERIOD: int = Field(60, env="RATE_LIMIT_PERIOD")
-    BLOCK_DURATION: int = Field(600, env="BLOCK_DURATION")  # Temporary block for 10 minutes.
-    PERMANENT_BLOCK_THRESHOULD: int = Field(3, env="PERMANENT_BLOCK_THRESHOULD") # After 3 offenses, permanent block.
-    PERMANENT_BLOCK_DURATION: int = Field(86400, ev="PERMANENT_BLOCK_DURATION") # Permanent block for 24 hours.
+    RATE_LIMIT_CALLS: int = Field(10000, env="RATE_LIMIT_CALLS")
+    RATE_LIMIT_PERIOD: int = Field(600, env="RATE_LIMIT_PERIOD")
+    BLOCK_DURATION: int = Field(6000, env="BLOCK_DURATION")  # Temporary block for 10 minutes.
+    PERMANENT_BLOCK_THRESHOULD: int = Field(30, env="PERMANENT_BLOCK_THRESHOULD") # After 3 offenses, permanent block.
+    PERMANENT_BLOCK_DURATION: int = Field(864000, ev="PERMANENT_BLOCK_DURATION") # Permanent block for 24 hours.
     
     # Redis settings (using Upstash Redis)
     REDIS_HOST: str = Field("settling-cricket-44286.upstash.io", env="REDIS_HOST")
