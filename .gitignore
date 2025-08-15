@@ -8,9 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
-.env/
-.env
 venv/
 ENV/
 env.bak/
