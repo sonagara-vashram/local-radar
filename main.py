@@ -21,7 +21,7 @@ app.add_middleware(
         "https://local-radar.onrender.com",
         "https://www.local-radar.onrender.com",
         "https://www.localradar.tech",
-        "https://localradar.tech",
+        "https://localradar.tech"
     ],
     allow_credentials=True,
     allow_methods=["*"],
