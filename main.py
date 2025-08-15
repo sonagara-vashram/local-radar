@@ -22,8 +22,6 @@ app.add_middleware(
         "https://www.local-radar.onrender.com",
         "https://www.localradar.tech",
         "https://localradar.tech",
-        "https://localradar-app-g2e4etfke2d2brcy.centralindia-01.azurewebsites.net",
-        "https://www.localradar-app-g2e4etfke2d2brcy.centralindia-01.azurewebsites.net"
     ],
     allow_credentials=True,
     allow_methods=["*"],
