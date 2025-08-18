@@ -11,7 +11,9 @@ from middleware.header_validator import header_validator
 app = FastAPI(
     title="Scraper API",
     version="1.0",
-    description="API for scraping and retrieving data from various sources."
+    description="API for scraping and retrieving data from various sources.",
+    docs_url=None,
+    redoc_url=None
 )
 
 # Include CORS middleware for handling cross-origin requests.
