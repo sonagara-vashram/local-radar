@@ -8,7 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.env
+*.env.*
+!.env.example
 venv/
+.venv/
 ENV/
 env.bak/
 venv.bak/
@@ -31,6 +35,7 @@ cache/
 *.cfg
 *.yaml
 *.yml
+!docker-compose.yml
 
 # Database
 *.sqlite3
