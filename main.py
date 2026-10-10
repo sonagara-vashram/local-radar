@@ -7,24 +7,21 @@ from core.logging import logger
 from middleware.request_logger import log_request
 from middleware.header_validator import header_validator
 
+from config.config import settings
+
 # Initialize FastAPI application with metadata.
 app = FastAPI(
     title="Scraper API",
     version="1.0",
     description="API for scraping and retrieving data from various sources.",
-    docs_url=None,
-    redoc_url=None
+    docs_url="/docs",
+    redoc_url="/redoc"
 )
 
 # Include CORS middleware for handling cross-origin requests.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://local-radar.onrender.com",
-        "https://www.local-radar.onrender.com",
-        "https://www.localradar.tech",
-        "https://localradar.tech"
-    ],
+    allow_origins=settings.cors_origins_list,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

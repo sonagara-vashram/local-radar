@@ -1,0 +1,30 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      MONGO_URI: mongodb://host.docker.internal:27017
+      DATABASE_NAME: LOCAL_RADAR
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      REDIS_PASSWORD: ""
+      REDIS_SSL: "false"
+    depends_on:
+      - redis
+
+  worker:
+    build: .
+    command: celery -A config.celery_config:celery_app worker --loglevel=info --include=tasks.tasks
+    environment:
+      MONGO_URI: mongodb://host.docker.internal:27017
+      DATABASE_NAME: LOCAL_RADAR
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      REDIS_PASSWORD: ""
+      REDIS_SSL: "false"
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine

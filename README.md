@@ -94,6 +94,32 @@ Start the FastAPI app using Uvicorn (development, auto-reload):
 python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
+## Run with Docker Compose
+
+Docker Compose starts the API, Celery worker, MongoDB, and Redis services:
+
+```powershell
+docker compose up --build
+```
+
+The API is available at `http://localhost:8000`, with the health endpoint at
+`http://localhost:8000/health`. The Compose file uses Redis in Docker and
+connects to MongoDB running on your host machine at `localhost:27017`. Make
+sure your local MongoDB service is running before starting Compose. Add
+production secrets through environment variables before deploying.
+
+To stop the services while retaining database data:
+
+```powershell
+docker compose down
+```
+
+To remove the named MongoDB, Redis, and application log volumes as well:
+
+```powershell
+docker compose down -v
+```
+
 Notes:
 - The API routes are included with `app.include_router(api_router, prefix='/api')` in `main.py`.
 - `main.py` also registers middleware (`header_validator`, `log_request`).
@@ -131,8 +157,10 @@ If you plan to use background tasks with Celery, configure and start a worker us
 - Add CI workflow to run linting and tests (the repo already contains `.github/workflows/`).
 - Consider adding a short CONTRIBUTING.md and a LICENSE file if you plan to open-source the project.
 
-## Contact / contribution
+## License
 
-If you want changes to this README or additional docs (API reference, sample requests, Postman collection), tell me which area to expand and I will update the README accordingly.
+Copyright (c) 2026 Shivraj Prajapati and Local Radar Contributors. All Rights Reserved.
+
+This project is **Source Available & Proprietary**. The source code is publicly accessible for viewing and educational reference only. Commercial use, reproduction, distribution, modification, or hosted service deployment is strictly prohibited without explicit written permission from the copyright holder(s). See the [LICENSE](file:///d:/PROJECT/vashram/local-radar-backend/LICENSE) file for complete terms.
 
 ---

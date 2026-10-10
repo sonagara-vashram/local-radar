@@ -27,7 +27,7 @@ celery_app.conf.update(
     result_backend=None  # Disable result backend (Upstash Redis not ideal for storing results)
 )
 
-# Optional: Auto-discover tasks in the 'app.tasks' module for modularity
-celery_app.autodiscover_tasks(['app.tasks'])
+# Optional: Auto-discover tasks if needed
+# celery_app.autodiscover_tasks(['tasks'])
 
 logger.info("Celery configuration updated.")
